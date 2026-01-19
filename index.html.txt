@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jacob's Marketing Agency</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- NAVIGATION -->
+<div class="navbar">
+  <a href="index.html">Home</a>
+  <a href="website-design.html">Website Design</a>
+  <a href="online-ads.html">Online Ads</a>
+  <a href="seo.html">SEO Optimization</a>
+  <a href="video-marketing.html">Video Marketing</a>
+</div>
+
+<!-- HERO SECTION -->
+<header>
+  <h1>Jacob's Marketing Agency</h1>
+  <p>Helping businesses grow online with websites, online ads, SEO, and video marketing.</p>
+</header>
+
+<!-- SERVICES OVERVIEW -->
+<section>
+  <h2>Our Services</h2>
+  <div class="services">
+    <div class="card">
+      <img src="images/website.jpg" alt="Website Design">
+      <h3>Website Design</h3>
+      <p>Create professional websites that convert visitors into customers.</p>
+      <a href="website-design.html" class="btn">Learn More</a>
+    </div>
+    <div class="card">
+      <img src="images/ads.jpg" alt="Online Ads">
+      <h3>Online Ads</h3>
+      <p>Targeted ads to bring traffic and grow your business quic
