@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SEO Optimization - Jacob's Marketing Agency</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="navbar">
+  <a href="index.html">Home</a>
+  <a href="website-design.html">Website Design</a>
+  <a href="online-ads.html">Online Ads</a>
+  <a href="seo.html">SEO Optimization</a>
+  <a href="video-marketing.html">Video Marketing</a>
+</div>
+
+<header>
+  <h1>SEO Optimization</h1>
+  <p>Improve your search rankings and drive organic traffic to your business.</p>
+</header>
+
+<section>
+  <h2>Our SEO Process</h2>
+  <div class="services">
+    <div class="card">
+      <img src="images/seo.jpg" alt="Audit & Research">
+      <h3>Audit & Research</h3>
+      <p>We analyze your site and your competitors to find opportunities.</p>
+    </div>
+    <div class="card">
+      <img src="images/seo.jpg" alt="Optimization">
+      <h3>Optimization</h3>
+      <p>We optimize your website content, structure, and performance for SEO.</p>
+    </div>
+    <div class="card">
+      <img src="images/seo.jpg" alt="Tracking & Reporting">
+      <h3>Tracking & Reporting</h3>
+      <p>We monitor rankings and provide reports to track growth.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Jacob's Marketing Agency. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
