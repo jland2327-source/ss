@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Online Ads - Jacob's Marketing Agency</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="navbar">
+  <a href="index.html">Home</a>
+  <a href="website-design.html">Website Design</a>
+  <a href="online-ads.html">Online Ads</a>
+  <a href="seo.html">SEO Optimization</a>
+  <a href="video-marketing.html">Video Marketing</a>
+</div>
+
+<header>
+  <h1>Online Ads</h1>
+  <p>Targeted campaigns on Google, Facebook, and Instagram to drive real results.</p>
+</header>
+
+<section>
+  <h2>Our Online Ads Process</h2>
+  <div class="services">
+    <div class="card">
+      <img src="images/ads.jpg" alt="Research & Strategy">
+      <h3>Research & Strategy</h3>
+      <p>We study your market and create a strategy for maximum ROI.</p>
+    </div>
+    <div class="card">
+      <img src="images/ads.jpg" alt="Campaign Creation">
+      <h3>Campaign Creation</h3>
+      <p>We build ads that attract and convert your ideal customers.</p>
+    </div>
+    <div class="card">
+      <img src="images/ads.jpg" alt="Monitoring & Optimization">
+      <h3>Monitoring & Optimization</h3>
+      <p>We track results and optimize campaigns for better performance.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Jacob's Marketing Agency. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
