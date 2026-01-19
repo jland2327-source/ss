@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Video Marketing - Jacob's Marketing Agency</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="navbar">
+  <a href="index.html">Home</a>
+  <a href="website-design.html">Website Design</a>
+  <a href="online-ads.html">Online Ads</a>
+  <a href="seo.html">SEO Optimization</a>
+  <a href="video-marketing.html">Video Marketing</a>
+</div>
+
+<header>
+  <h1>Video Marketing</h1>
+  <p>Create high-quality videos that engage your audience and boost sales.</p>
+</header>
+
+<section>
+  <h2>Our Video Marketing Process</h2>
+  <div class="services">
+    <div class="card">
+      <img src="images/video.jpg" alt="Concept & Script">
+      <h3>Concept & Script</h3>
+      <p>We create a script and concept tailored to your brand.</p>
+    </div>
+    <div class="card">
+      <img src="images/video.jpg" alt="Filming & Editing">
+      <h3>Filming & Editing</h3>
+      <p>High-quality filming and professional editing for polished results.</p>
+    </div>
+    <div class="card">
+      <img src="images/video.jpg" alt="Promotion">
+      <h3>Promotion</h3>
+      <p>We help distribute videos across platforms to reach your audience.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Jacob's Marketing Agency. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
